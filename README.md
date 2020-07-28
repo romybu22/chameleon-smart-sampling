@@ -6,8 +6,7 @@ Please look up at the original README to run our improvement.
 
 Our final article:.
 
-# Publication
-[1] Gabriel de Souza Pereira Moreira, Felipe Ferreira, and Adilson Marques da Cunha. 2018. CHAMELEON: A Deep Learning Meta-Architecture for News Recommender Systems. In Proceedings of Doctoral Symposium of the 12th ACM RecSys'18, October 6, 2018, Vancouver, BC, Canada. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3240323.3240331
+
 
 ## Implementation
 
@@ -21,4 +20,7 @@ The experiment reported use the following datasets:
 * [SmartMedia Adressa dataset](http://reclab.idi.ntnu.no/dataset) - This dataset contains approximately 20
 million page visits from a Norwegian news portal [91]. In our experiments we used 16 days of the full dataset, which is available upon request, and includes article text and click events of about 2 million users and 13,000 articles.
 
-You must download these dataset to be able to run the commands to pre-process, train, and evaluate the session-based algorithms for next-click recommendation within user sessions.
+You must download this dataset to be able to run the commands to pre-process, train, and evaluate the session-based algorithms for next-click recommendation within user sessions.
+
+## Publication
+[1] Gabriel de Souza Pereira Moreira, Felipe Ferreira, and Adilson Marques da Cunha. 2018. CHAMELEON: A Deep Learning Meta-Architecture for News Recommender Systems. In Proceedings of Doctoral Symposium of the 12th ACM RecSys'18, October 6, 2018, Vancouver, BC, Canada. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3240323.3240331
