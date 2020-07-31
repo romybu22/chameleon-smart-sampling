@@ -4,9 +4,6 @@ In this project we try to improve the CHANELEON architecture [1].
 To accomplish this task, we used the researches' published code, via this link: https://github.com/gabrielspmoreira/chameleon_recsys. 
 Please look up at the original README to run our improvement.
 
-Our final article:.
-
-
 
 ## Implementation
 
